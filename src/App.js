@@ -6,9 +6,15 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+<<<<<<< HEAD
         <p>
           Hello World! This is our team project.
         </p>	
+=======
+        <p> 
+          Hello World! This is our team project. 
+        </p>
+>>>>>>> 248309e (Fixed merge conflict)
         <p> My name is Brandon Stephens and this is my project </p>
       </header>
     </div>
